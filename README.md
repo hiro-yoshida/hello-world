@@ -14,4 +14,4 @@ How long dose it take to exec this?
 >>>>>>> 3892bad94298188022bd02ed74653388cb7d65a0
 
 This is a bit wired.
-
+Actually, this looked nicer.
